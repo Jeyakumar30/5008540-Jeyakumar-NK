@@ -4,6 +4,8 @@ This repository contains exercises and solutions for various programming concept
 
 Visual Studio Code was used as the editor for this entire project.
 
+![Learning Journey](https://github.com/user-attachments/assets/a12dcb69-2931-4a60-98af-1547774033c1)
+
 ## Table of Contents
 
 - [Week 1: Algorithms and Data Structures](#week-1-algorithms-and-data-structures)
