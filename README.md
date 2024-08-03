@@ -4,7 +4,7 @@ This repository contains exercises and solutions for various programming concept
 
 Visual Studio Code was used as the editor for this entire project.
 
-![Learning Journey](https://github.com/user-attachments/assets/a12dcb69-2931-4a60-98af-1547774033c1)
+<img width="545" alt="Learning Journey" src="https://github.com/user-attachments/assets/acdac19a-819f-435e-8a1c-781fa47d10bc">
 
 ## Table of Contents
 
