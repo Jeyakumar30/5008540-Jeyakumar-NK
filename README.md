@@ -1,6 +1,6 @@
 # Cognizant Digital Nurture 3.0 Deep Skilling Stage Assessments
 
-This repository contains exercises and solutions for various programming concepts in Java and PL/SQL. The exercises are designed to understand and implement fundamental and advanced topics, including data structures, algorithms, design patterns, and database management using PL/SQL.
+This repository contains exercises and solutions for various programming concepts in Java and PL/SQL. These exercises help to understand and implement fundamental and advanced topics, including data structures, algorithms, design patterns, and database management using PL/SQL.
 
 Visual Studio Code was used as the editor for this entire project.
 
