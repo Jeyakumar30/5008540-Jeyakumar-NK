@@ -1,0 +1,20 @@
+EMPLOYEEID,NAME,POSITION,SALARY,DEPARTMENT,HIREDATE
+1,BARANI SRI K,Manager,75000,Sales,15-JAN-20
+2,EARLENE MELBA J,Assistant Manager,60000,Marketing,22-MAR-19
+3,HARINI SRI T R,Senior Developer,85000,IT,10-JUL-18
+4,HARIVARSHINI M,HR Specialist,55000,Human Resources,01-FEB-21
+5,KARTHIYAIYINI G,Financial Analyst,72000,Finance,30-NOV-17
+6,KEERTHA DHARSHINI S,Marketing Coordinator,65000,Marketing,25-APR-22
+7,NIVEATHA N,Customer Service Representative,50000,Customer Service,15-AUG-21
+8,YOGITA C M,Project Manager,78000,Project Management,20-JUN-19
+9,CHAKKARAVARTHI N,Business Analyst,67000,Business Analysis,05-DEC-18
+10,JAI NITHISH N,IT Support Specialist,54000,IT,12-OCT-20
+11,JEYAKUMAR N K,Senior Accountant,74000,Finance,01-SEP-17
+12,KABISH M,Data Scientist,82000,Data Science,10-JAN-21
+13,LINGESH KUMAR K,Operations Manager,77000,Operations,25-NOV-19
+14,MOHAMMED HAMZA M,Graphic Designer,56000,Design,05-MAR-22
+15,PAWAN PRASATH SM,Sales Executive,62000,Sales,30-JUL-20
+16,PRIYADHARSAN S,Supply Chain Analyst,70000,Supply Chain,15-JUN-18
+17,RAMANATHAN R,Legal Advisor,68000,Legal,20-MAY-21
+18,VENKATESH PRABU R,Chief Technology Officer,90000,Technology,10-APR-17
+19,SRIRAM BALAJI R,Network Engineer,62000,IT,01-DEC-19
