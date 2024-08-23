@@ -1,0 +1,4 @@
+com\example\BookstoreAPI\BookstoreApiApplication.class
+com\example\BookstoreAPI\model\Book.class
+com\example\BookstoreAPI\controller\BookController.class
+com\example\BookstoreAPI\controller\TestController.class
